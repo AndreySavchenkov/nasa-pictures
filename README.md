@@ -1,1 +1,1 @@
-NextJS + MUI + RTQ = https://nasa-alpha.vercel.app/
+NextJS + MUI + RTQ = https://nasa-fm7nflfwa-andreysavchenkov.vercel.app/
